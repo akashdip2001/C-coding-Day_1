@@ -79,7 +79,7 @@ C cording Day Day_1
    }
    ```
 ---
-5) same ⬆️ ( c = a-b )
+5) Write a C program to take two different integers from user and also display their different. --- same ⬆️ ( c = a-b )
 ```
    #include<stdio.h>
    int main()
