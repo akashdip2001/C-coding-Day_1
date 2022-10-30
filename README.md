@@ -22,7 +22,7 @@ Coding by Akashdip Mahapatra
 <br/>
 
 ---
-# C-cording-Day-Day_1-
+# C-cording-Day_1
 C cording Day Day_1 
 
 ---
