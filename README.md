@@ -66,7 +66,7 @@ C cording Day Day_1
         scanf("%f %f",&a,&b);
    
        printf("Two integers is %f & %f ",a,b);
-       print 0;
+       return 0;
     }
  ```
  ---
