@@ -41,11 +41,11 @@ C cording Day Day_1
    #include<stdio.h>
    int main()
    {
-   int a,b;
-   printf("Enter Two integers \n");
-   scanf("%d %d",&a,&b);
+       int a,b;
+        printf("Enter Two integers \n");
+        scanf("%d %d",&a,&b);
    
-   printf("Two integers is %d & %d",a,b);
+       printf("Two integers is %d & %d",a,b);
    return 0;
    }
 ---
