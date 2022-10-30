@@ -1,3 +1,13 @@
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQE04IkwnGjkfA/profile-displaybackgroundimage-shrink_350_1400/0/1653333700023?e=1668038400&v=beta&t=GoUEhql2-UsEoOPEozQYPzz-7Ezoe9LesPj9nM0vkes)](https://akashdip2001.io)
+
+<h1 align="right">AKASHDIP MAHAPATRA</h1>
+<h3 align="right">National award from Dilhi, award taken from Indian precedent Pronob Mukherjee 2012 , on Drawing</h3>
+<br> 
+<br>
+<img align="center" alt="Mechanical Engineering" width="100" src="https://yt3.ggpht.com/7tPHyFi7-QyTnhpc484ZzTuRp0fZSY-CUuykvzuKdKYIwt0fmw98SWMqwRy_7pZ6LQzEYJlvXA=s88-c-k-c0x00ffffff-no-rj-mo"> 
+<br>
+
+---
 # C-cording-Day-Day_1-
 C cording Day Day_1 
 
