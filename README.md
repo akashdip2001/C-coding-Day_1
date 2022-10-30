@@ -56,5 +56,14 @@ C cording Day Day_1
 ---
 5) same ⬆️ ( c = a-b )
 ---
-7) 
-```
+6) Write a C program to take a floating-point number from user and show its value.
+``` #include<stdio.h>
+   int main()
+   {
+       float a,b;
+        printf("Enter Two integers \n");
+        scanf("%f %f",&a,&b);
+   
+       printf("Two integers is %f & %f ",a,b);
+       print 0;
+    }
