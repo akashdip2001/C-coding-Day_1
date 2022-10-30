@@ -80,6 +80,7 @@ C cording Day Day_1
               scanf("%c",&name);
        
               printf("The first later of your name is %c",name);
+              
        return 0;
        }
        
