@@ -68,3 +68,11 @@ C cording Day Day_1
        printf("Two integers is %f & %f ",a,b);
        print 0;
     }
+ ```
+ ---
+ 7) Write a C program to take a character variable from user and show its value.
+ ```
+       #include<stdio.h>
+       int main()
+       {
+       
