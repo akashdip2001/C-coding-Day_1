@@ -45,7 +45,16 @@ C cording Day Day_1
         printf("Enter Two integers \n");
         scanf("%d %d",&a,&b);
    
-       printf("Two integers is %d & %d",a,b);
+       printf("Two integers is %d & %d and there Sum is %d",a,b,a+b);
+       
+       //or
+       //int c = a+b;
+       //printf("Two integers is %d & %d and there Sum is %d",a,b,c);
+       
    return 0;
    }
 ---
+5) same ⬆️ ( c = a-b )
+---
+7) 
+```
