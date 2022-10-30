@@ -83,4 +83,11 @@ C cording Day Day_1
               
        return 0;
        }
-       
+```
+---
+8) Chack the validity of following identifiers (mentioned below) through the compilation of C. <br/>
+       i)   a2 <br/>
+       ii)  2a <br/>
+       iii) @b <br/>
+       iv)  b_2 <br/>
+       v)   1_c <br/>
