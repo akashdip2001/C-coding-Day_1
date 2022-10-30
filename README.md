@@ -35,6 +35,7 @@ C cording Day Day_1
        return 0;
    }
    ```
+---
 4) Write a C program to take two integers from user and also show their sum.   
    ```
    #include<stdio.h>
@@ -47,3 +48,4 @@ C cording Day Day_1
    printf("Two integers is %d & %d",a,b);
    return 0;
    }
+---
