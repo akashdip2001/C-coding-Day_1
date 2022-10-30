@@ -80,6 +80,19 @@ C cording Day Day_1
    ```
 ---
 5) same ⬆️ ( c = a-b )
+```
+   #include<stdio.h>
+   int main()
+   {
+       int a,b;
+        printf("Enter Two integers \n");
+        scanf("%d %d",&a,&b);
+   
+       printf("Two integers is %d & %d and there Sum is %d",a,b,a-b);
+       
+       return 0;
+   }
+```
 ---
 6) Write a C program to take a floating-point number from user and show its value.
 ``` #include<stdio.h>
@@ -115,3 +128,5 @@ C cording Day Day_1
        iii) @b <br/>
        iv)  b_2 <br/>
        v)   1_c <br/>
+```
+```
