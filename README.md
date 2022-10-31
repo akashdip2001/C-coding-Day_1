@@ -25,22 +25,22 @@ C cording Day Day_1
 ---
 1) Write a C program to display "AOT"
 ```
-       #include<stdio.h>
-       int main()
-       {
-        printf("AOT");
-       return 0;
-       }
+  #include<stdio.h>
+   int main()
+   {
+     printf("AOT");
+     return 0;
+   }
  ```
  ---
  2) Write a C program to display your name
  ```
-       #include<stduo.h>
-       int main()
-       {
-          printf("Akashdip Mahapatra");
-          return 0;
-          }
+  #include<stduo.h>
+  int main()
+  {
+    printf("Akashdip Mahapatra");
+   return 0;
+  }
 ```
 ---
 3) Write a C program to display following - <br/>
@@ -51,9 +51,9 @@ C cording Day Day_1
   #include<stdio.h>
   int main()
   {
-       printf("\tAOT \n \tB.Tech \n \t1st Sem"); 
-       // \n for next line & \t for little space.
-       return 0;
+     printf("\tAOT \n \tB.Tech \n \t1st Sem"); 
+     // \n for next line & \t for little space.
+   return 0;
    }
    ```
 ---
@@ -62,11 +62,11 @@ C cording Day Day_1
    #include<stdio.h>
    int main()
    {
-       int a,b;
-        printf("Enter Two integers \n");
-        scanf("%d %d",&a,&b);
+     int a,b;
+     printf("Enter Two integers \n");
+     scanf("%d %d",&a,&b);
    
-       printf("Two integers is %d & %d and there Sum is %d",a,b,a+b);
+     printf("Two integers is %d & %d and there Sum is %d",a,b,a+b);
        
        //or
        //int c = a+b;
@@ -81,13 +81,13 @@ C cording Day Day_1
    #include<stdio.h>
    int main()
    {
-       int a,b;
-        printf("Enter Two integers \n");
-        scanf("%d %d",&a,&b);
+    int a,b;
+    printf("Enter Two integers \n");
+    scanf("%d %d",&a,&b);
    
-       printf("Two integers is %d & %d and there Sum is %d",a,b,a-b);
+    printf("Two integers is %d & %d and there Sum is %d",a,b,a-b);
        
-       return 0;
+   return 0;
    }
 ```
 ---
@@ -95,12 +95,12 @@ C cording Day Day_1
 ``` #include<stdio.h>
    int main()
    {
-       float a,b;
-        printf("Enter Two integers \n");
-        scanf("%f %f",&a,&b);
-   
-       printf("Two integers is %f & %f ",a,b);
-       return 0;
+     float a,b;
+     printf("Enter Two integers \n");
+     scanf("%f %f",&a,&b);
+ 
+     printf("Two integers is %f & %f ",a,b);
+    return 0;
     }
  ```
  ---
@@ -109,11 +109,11 @@ C cording Day Day_1
        #include<stdio.h>
        int main()
        {
-              char name;
-              printf("Enter your name \n");
-              scanf("%c",&name);
+        char name;
+        printf("Enter your name \n");
+        scanf("%c",&name);
        
-              printf("The first later of your name is %c",name);
+        printf("The first later of your name is %c",name);
               
        return 0;
        }
@@ -126,6 +126,8 @@ C cording Day Day_1
        iv)  b_2 <br/>
        v)   1_c <br/>
 ```
+answer is 1 & 4 , 
+alphabet and numbers is identifiers and special characters are underscore and dollar sign. And identifiers can't start with numbers & special characters.So the ans is 1 & 4 .
 ```
 <a href="https://www.youtube.com/c/akash aot" class="previous">&laquo; Previous</a> <br/>
 <a href="https://akashdip2001.github.io/C-cording-Day_2/" class="next">Next &raquo;</a>
