@@ -127,7 +127,8 @@ C cording Day Day_1
        v)   1_c <br/>
 ```
 answer is 1 & 4 , 
-alphabet and numbers is identifiers and special characters are underscore and dollar sign. 
+🌿 Alphabet (ABC...abc) and numbers(123...) are identifiers 
+And underscore"_" and dollar sign "$" are special characters. 
 And identifiers can't start with numbers & special characters.
 So the ans is 1 & 4 .
 ```
