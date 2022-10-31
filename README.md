@@ -106,17 +106,17 @@ C cording Day Day_1
  ---
  7) Write a C program to take a character variable from user and show its value.
  ```
-       #include<stdio.h>
-       int main()
-       {
-        char name;
-        printf("Enter your name \n");
-        scanf("%c",&name);
+  #include<stdio.h>
+  int main()
+  {
+    char name;
+    printf("Enter your name \n");
+    scanf("%c",&name);
        
-        printf("The first later of your name is %c",name);
+    printf("The first later of your name is %c",name);
               
-       return 0;
-       }
+  return 0;
+  }
 ```
 ---
 8) Chack the validity of following identifiers (mentioned below) through the compilation of C. <br/>
@@ -127,7 +127,9 @@ C cording Day Day_1
        v)   1_c <br/>
 ```
 answer is 1 & 4 , 
-alphabet and numbers is identifiers and special characters are underscore and dollar sign. And identifiers can't start with numbers & special characters.So the ans is 1 & 4 .
+alphabet and numbers is identifiers and special characters are underscore and dollar sign. 
+And identifiers can't start with numbers & special characters.
+So the ans is 1 & 4 .
 ```
 <a href="https://www.youtube.com/c/akash aot" class="previous">&laquo; Previous</a> <br/>
 <a href="https://akashdip2001.github.io/C-cording-Day_2/" class="next">Next &raquo;</a>
