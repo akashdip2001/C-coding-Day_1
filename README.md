@@ -25,12 +25,12 @@ C cording Day Day_1
 ---
 1) Write a C program to display "AOT"
 ```
-  #include<stdio.h>
-   int main()
-   {
-     printf("AOT");
-     return 0;
-   }
+ #include<stdio.h>
+ int main()
+ {
+   printf("AOT");
+  return 0;
+ }
  ```
  ---
  2) Write a C program to display your name
@@ -44,87 +44,88 @@ C cording Day Day_1
 ```
 ---
 3) Write a C program to display following - <br/>
-  AOT <br/>
-  B.Tech <br/>
-  1st Sem <br/>
-  ```
-  #include<stdio.h>
-  int main()
-  {
-     printf("\tAOT \n \tB.Tech \n \t1st Sem"); 
-     // \n for next line & \t for little space.
-   return 0;
-   }
-   ```
+  -- AOT <br/>
+  -- B.Tech <br/>
+  -- 1st Sem <br/>
+```
+ #include<stdio.h>
+ int main()
+ {
+   printf("\tAOT \n \tB.Tech \n \t1st Sem"); 
+   // \n for next line & \t for little space.
+ return 0;
+ }
+```
 ---
 4) Write a C program to take two integers from user and also show their sum.   
-   ```
-   #include<stdio.h>
-   int main()
-   {
-     int a,b;
-     printf("Enter Two integers \n");
-     scanf("%d %d",&a,&b);
+```
+ #include<stdio.h>
+ int main()
+ {
+ int a,b;
+ printf("Enter Two integers \n");
+ scanf("%d %d",&a,&b);
    
-     printf("Two integers is %d & %d and there Sum is %d",a,b,a+b);
+ printf("Two integers is %d & %d and there Sum is %d",a,b,a+b);
        
-       //or
-       //int c = a+b;
-       //printf("Two integers is %d & %d and there Sum is %d",a,b,c);
+  //or
+  //int c = a+b;
+  //printf("Two integers is %d & %d and there Sum is %d",a,b,c);
        
-   return 0;
-   }
-   ```
+ return 0;
+ }
+```
 ---
 5) Write a C program to take two different integers from user and also display their different. --- same ⬆️ ( c = a-b )
 ```
-   #include<stdio.h>
-   int main()
-   {
-    int a,b;
-    printf("Enter Two integers \n");
-    scanf("%d %d",&a,&b);
+ #include<stdio.h>
+ int main()
+ {
+  int a,b;
+  printf("Enter Two integers \n");
+  scanf("%d %d",&a,&b);
    
-    printf("Two integers is %d & %d and there Sum is %d",a,b,a-b);
+  printf("Two integers is %d & %d and there Sum is %d",a,b,a-b);
        
-   return 0;
-   }
+ return 0;
+ }
 ```
 ---
 6) Write a C program to take a floating-point number from user and show its value.
-``` #include<stdio.h>
-   int main()
-   {
-     float a,b;
-     printf("Enter Two integers \n");
-     scanf("%f %f",&a,&b);
+``` 
+ #include<stdio.h>
+ int main()
+ {
+   float a,b;
+   printf("Enter Two integers \n");
+   scanf("%f %f",&a,&b);
  
-     printf("Two integers is %f & %f ",a,b);
-    return 0;
-    }
- ```
- ---
- 7) Write a C program to take a character variable from user and show its value.
- ```
-  #include<stdio.h>
-  int main()
-  {
-    char name;
-    printf("Enter your name \n");
-    scanf("%c",&name);
-       
-    printf("The first later of your name is %c",name);
-              
+   printf("Two integers is %f & %f ",a,b);
   return 0;
-  }
+ }
+```
+---
+7) Write a C program to take a character variable from user and show its value.
+```
+ #include<stdio.h>
+ int main()
+ {
+   char name;
+   printf("Enter your name \n");
+   scanf("%c",&name);
+       
+   printf("The first later of your name is %c",name);
+              
+ return 0;
+ }
 ```
 ---
 8) Chack the validity of following identifiers (mentioned below) through the compilation of C. <br/>
-       i)   a2 <br/>
-       ii)  2a <br/>
-       iii) @b <br/>
-       iv)  b_2 <br/>
-       v)   1_c <br/>
+      -- i)   a2 <br/>
+      -- ii)  2a <br/>
+      -- iii) @b <br/>
+      -- iv)  b_2 <br/>
+      -- v)   1_c <br/>
 ```
 answer is 1 & 4 , 
 🌿 Alphabet (ABC...abc) and numbers(123...) are identifiers 
