@@ -135,7 +135,7 @@ So the ans is 1 & 4 .
 
 | <a href="https://www.youtube.com/c/akash aot" class="previous">&laquo; Previous</a> <br/> |
 |--------------------------------------------------------------------------------------|
-| <a href="https://akashdip2001.github.io/C-cording-Day_2/" class="next">Next &raquo;</a> |
+| <a href="https://akashdip2001.github.io/C-coding-Day_2/" class="next">Next &raquo;</a> |
 
 ---
  <a href="https://akashdip2001.github.io/linktree/" target="blank"><img align="right" src="https://yt3.ggpht.com/7tPHyFi7-QyTnhpc484ZzTuRp0fZSY-CUuykvzuKdKYIwt0fmw98SWMqwRy_7pZ6LQzEYJlvXA=s88-c-k-c0x00ffffff-no-rj-mo" alt="akashdip2001" height="40" width="40" /></a>
