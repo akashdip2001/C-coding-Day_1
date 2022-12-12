@@ -9,14 +9,9 @@ Coding by Akashdip Mahapatra
  
 <h1 align="right">AKASHDIP MAHAPATRA</h1>
 <p align="right">
+<a href="https://www.youtube.com/c/akash aot" target="blank">My YouTube Channel<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akash aot" height="30" width="40" /></a>
 <a href="https://akashdip2001.github.io/linktree/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashdip-mahapatra-330687204" height="30" width="40" /></a>
 </p>
-
-<br>
-<br>
-<a href="https://www.youtube.com/c/akash aot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akash aot" height="30" width="40" />My YouTube Channel</a>
-<br>
-<br>
 
 ---
 ---
