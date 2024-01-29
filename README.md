@@ -20,7 +20,7 @@ Coding by Akashdip Mahapatra
 
 ---
 1) Write a C program to display "AOT"
-```
+```c
  #include<stdio.h>
  int main()
  {
@@ -30,7 +30,7 @@ Coding by Akashdip Mahapatra
  ```
  ---
  2) Write a C program to display your name
- ```
+ ```c
   #include<stduo.h>
   int main()
   {
@@ -43,7 +43,7 @@ Coding by Akashdip Mahapatra
   -- AOT <br/>
   -- B.Tech <br/>
   -- 1st Sem <br/>
-```
+```c
  #include<stdio.h>
  int main()
  {
@@ -54,7 +54,7 @@ Coding by Akashdip Mahapatra
 ```
 ---
 4) Write a C program to take two integers from user and also show their sum.   
-```
+```c
  #include<stdio.h>
  int main()
  {
@@ -73,7 +73,7 @@ Coding by Akashdip Mahapatra
 ```
 ---
 5) Write a C program to take two different integers from user and also display their different. --- same ⬆️ ( c = a-b )
-```
+```c
  #include<stdio.h>
  int main()
  {
@@ -88,7 +88,7 @@ Coding by Akashdip Mahapatra
 ```
 ---
 6) Write a C program to take a floating-point number from user and show its value.
-``` 
+```c
  #include<stdio.h>
  int main()
  {
@@ -102,7 +102,7 @@ Coding by Akashdip Mahapatra
 ```
 ---
 7) Write a C program to take a character variable from user and show its value.
-```
+```c
  #include<stdio.h>
  int main()
  {
